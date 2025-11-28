@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+torch
+transformers
+matplotlib
+seaborn
+umap-learn
+hdbscan
+tqdm
+joblib
+tf-keras
+accelerate>=0.26.0
